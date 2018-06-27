@@ -6,3 +6,7 @@ Incident Report Mangement System
 
 An incident report Management System in which user can report incidents 
 and resolved by the Supervisors and DRM'S
+
+#### Author
+
+Atul Singh (C-DAC)
